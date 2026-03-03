@@ -1,8 +1,7 @@
 <!--
 **PratikshitSingh/PratikshitSingh** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
-# Hey, I’m Pratikshit Singh
+What I do?
 
 I build **systems that don’t flinch under scale**—event-driven services, data pipelines, and GenAI apps that actually ship.
 
@@ -17,12 +16,13 @@ I build **systems that don’t flinch under scale**—event-driven services, dat
 - **Production GenAI** patterns: **RAG**, agents, evaluation, and “make it safe + measurable” workflows.
 
 ## 🌱 I’m currently learning
+- Building reliable and safe AI agents.
 - Better **LLM evaluation** + feedback loops (quality, latency, cost).
 - System design patterns for **high-availability distributed services** (rate limiting, throttling, resilience).
 - Practical **vector search** + retrieval tuning.
 
 ## 👯 I’m looking to collaborate on
-- **RAG/Agent** projects that solve real workflows (not just demos).
+- **RAG/Agent** projects that solve real workflows.
 - Data platforms: **PySpark/EMR**, streaming, event-driven architectures.
 - Backend systems where performance + correctness both matter.
 
@@ -30,6 +30,7 @@ I build **systems that don’t flinch under scale**—event-driven services, dat
 - Spring Boot microservices (MVC + Hexagonal architecture)
 - EMR / PySpark pipelines and scalable ETL
 - RAG design (chunking, retrieval, eval, and guardrails)
+- Agents
 - PostgreSQL performance (indexes, views, triggers) + GraphQL APIs
 
 ## 📫 How to reach me
@@ -60,9 +61,9 @@ I build **systems that don’t flinch under scale**—event-driven services, dat
 
 - Built Spring Boot services with **multi-region** patterns + throttling/rate limiting.
 - Shipped a **RAG-powered legislative tracker** to surface privacy law changes earlier (improved review speed by ~**60%**).
-- Built pipelines to process large-scale transcripts using **EMR/PySpark** + LLM workflows.
+- Built pipelines to process large-scale transcripts (TBs) using **EMR/PySpark** + LLM workflows.
 - Built risk dashboards for **15+ trading desks**; designed Postgres systems fed by **200+ risk jobs**.
-- Used ML to optimize compute batching → **~84% runtime reduction** for global jobs.
+- Used ML to optimize compute batching → **~84% runtime reduction** for global cloud EC2 jobs.
 
 ---
 
@@ -71,12 +72,10 @@ I love problems where **correctness, performance, and maintainability** all matt
 
 ---
 
-## Featured builds (I’ll auto-curate once you share repo links)
+## Featured builds
 - **Super-Resolution GAN**: attention-enhanced SRGAN with RRDB/U-Net ideas for sharper textures.
 - **Time-series transfer learning**: domain adversarial approaches for strong 1D CNN transfer models.
 - **Fraud detection @ extreme imbalance**: SMOTE + cost-sensitive XGBoost on a 0.02% positive class dataset.
-
-> If you paste 5–10 repo links, I’ll turn this into a clean “Featured Repos” section with direct links + punchy one-liners.
 
 ---
 Thanks for stopping by.
