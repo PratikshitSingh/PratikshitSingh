@@ -3,7 +3,7 @@
 -->
 What I do?
 
-I build **systems that don’t flinch under scale**—event-driven services, data pipelines, and GenAI apps that actually ship.
+I build **smart scalable systems that don’t flinch under scale**—event-driven services, data pipelines, and GenAI applications and agents that actually ship.
 
 **Portfolio:** https://pratikshit-portfolio.vercel.app/  
 **GitHub:** https://github.com/PratikshitSingh  
@@ -12,8 +12,8 @@ I build **systems that don’t flinch under scale**—event-driven services, dat
 ---
 
 ## 🔭 I’m currently working on
-- **Privacy Engineering @ Intuit**: event-driven Spring Boot microservices, multi-region reliability, and privacy/compliance automation.
-- **Production GenAI** patterns: **RAG**, agents, evaluation, and “make it safe + measurable” workflows.
+- **Compliance & Privacy Engineering @ Intuit**: event-driven Spring Boot microservices, multi-region reliability, and Big data pipelines, agentic automations.
+- **Production GenAI** patterns: **MCP**, **RAG**, **agents**, evaluation, and “make it safe + measurable” workflows.
 
 ## 🌱 I’m currently learning
 - Building reliable and safe AI agents.
@@ -22,7 +22,7 @@ I build **systems that don’t flinch under scale**—event-driven services, dat
 - Practical **vector search** + retrieval tuning.
 
 ## 👯 I’m looking to collaborate on
-- **RAG/Agent** projects that solve real workflows.
+- **Agent** projects that solve real workflows.
 - Data platforms: **PySpark/EMR**, streaming, event-driven architectures.
 - Backend systems where performance + correctness both matter.
 
@@ -49,9 +49,9 @@ I build **systems that don’t flinch under scale**—event-driven services, dat
 ## My tech palette
 
 **Backend:** Spring Boot, Django/DRF, Flask, Kafka, Redis  
-**Data:** PySpark, EMR, Hadoop, Hive, SQL  
-**Cloud/DevOps:** AWS (EC2/EMR/S3/Lightsail), Docker, Kubernetes, Jenkins, Nginx, Argo  
-**Frontend (when needed):** React, Redux, TypeScript  
+**Data:** PySpark, EMR, Airflow, Hadoop, Hive, SQL  
+**Cloud/DevOps:** AWS (EC2/EMR/S3/Lightsail), Docker, Kubernetes, Jenkins, Nginx, Argo, Vercel, Streamlit  
+**Frontend:** React, Redux, TypeScript  
 **GenAI:** LangChain, LangGraph, RAG, embeddings, vector DBs, evaluation  
 **ML/DL:** PyTorch, TensorFlow, scikit-learn
 
